@@ -1,0 +1,8 @@
+secrets.h
+.env
+*.db
+*.sqlite
+__pycache__/
+node_modules/
+export_*/
+*.zip
