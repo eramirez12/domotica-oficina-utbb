@@ -1,0 +1,9 @@
+{
+  "title": "Domótica para la oficina de SEED – UTBB",
+  "upload_type": "software",
+  "description": "Código del sistema domótico (firmware Arduino UNO R4 WiFi, servidor Flask con MQTT y SQLite, panel React y scripts de análisis) que controla la iluminación y el aire acondicionado de una oficina de la Universidad Tecnológica de Bahía de Banderas según su ocupación. Complementa la tesis de Maestría en Gestión del Mantenimiento 4.0.",
+  "creators": [{"name": "Ramírez Gil, Erick Alejandro", "affiliation": "Universidad Tecnológica de Bahía de Banderas"}],
+  "license": "MIT",
+  "language": "spa",
+  "keywords": ["domótica", "mantenimiento 4.0", "internet de las cosas", "MQTT", "Arduino"]
+}
