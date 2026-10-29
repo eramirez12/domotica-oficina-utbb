@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Si usas este software, cítalo como se indica abajo."
+title: "Domótica para la oficina de SEED – UTBB"
+type: software
+version: 1.0.0
+date-released: 2026-11-01
+license: MIT
+authors:
+  - family-names: "Ramírez Gil"
+    given-names: "Erick Alejandro"
+    affiliation: "Universidad Tecnológica de Bahía de Banderas"
+keywords:
+  - domótica
+  - mantenimiento 4.0
+  - internet de las cosas
+  - MQTT
+  - Arduino
